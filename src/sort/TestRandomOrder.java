@@ -13,7 +13,7 @@ public class TestRandomOrder
 
 		int lowerLimit = 0;
 		int upperLimit = 100;
-		int quantity = 100;
+		int quantity = 10;
 		
 		upperLimit = upperLimit - lowerLimit + 1;
 		
