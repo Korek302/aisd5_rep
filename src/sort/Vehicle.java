@@ -1,5 +1,5 @@
 package sort;
-//pupa
+
 public class Vehicle implements Comparable<Vehicle>
 {
 	int age;
